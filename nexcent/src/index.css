@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: rgb(76,175,79);
+    --color-secondary: rgb(77,77,77);
+    --color-tertiary: rgb(245,247,250);
+    --color-footer: rgb(38,50,56);
+    --color-socialBg: rgb(60,71,76)
+}
